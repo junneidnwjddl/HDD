@@ -24,6 +24,6 @@ model_a4c = tf.keras.models.load_model('''my_model_A4C 폴더가 존재하는 di
 ### 모델 weight
 
 ### 학습코드
-[Train-A2C](https://github.com/junneidnwjddl/HDD/blob/main/Train_u-net_A2C.ipynb)  
-[Train-A4C](https://github.com/junneidnwjddl/HDD/blob/main/Train_u-net_A3C.ipynb)
+[Train-A2C 학습 코드 클릭](https://github.com/junneidnwjddl/HDD/blob/main/Train_u-net_A2C.ipynb)  
+[Train-A4C 학습 코드 클릭](https://github.com/junneidnwjddl/HDD/blob/main/Train_u-net_A4C.ipynb)
 
