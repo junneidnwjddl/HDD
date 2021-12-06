@@ -2,7 +2,7 @@
 Heart Disease AI Datathon, 심초음파/심전도 ai 모델 데이터톤 2021
 
 ## 한우정과 아이들 팀
-- 팀장: 장성준
+- **팀장: 장성준**
 
 ### 실행 가이드
 1. ```test.ipynb```open
