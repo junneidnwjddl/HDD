@@ -17,3 +17,13 @@ model_a4c = tf.keras.models.load_model('''my_model_A4C 폴더가 존재하는 di
 5. ```<Evaluate>``` loss Function 확인
 6-1. ```<A2C Evaluate>``` DSC/JI 값 확인 
 6-2. ```<A4C Evaluate>``` DSC/JI 값 확인
+
+### 환경
+- Colab 환경(2021.12.07기준) + tensorflow-addons
+
+### 모델 weight
+
+### 학습코드
+[Train-A2C](https://github.com/junneidnwjddl/HDD/blob/main/Train_u-net_A2C.ipynb)  
+[Train-A4C](https://github.com/junneidnwjddl/HDD/blob/main/Train_u-net_A3C.ipynb)
+
