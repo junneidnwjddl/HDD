@@ -8,7 +8,7 @@ Heart Disease AI Datathon, 심초음파/심전도 ai 모델 데이터톤 2021
 ### 실행 가이드
 1. ```test.ipynb```open
 2. data가 존재하는 path 설정
-3. ```<Set Dataset>```, ```<DataLoader>``` 진행
+3. ```<Set Dataset>```, ```<DataLoader>``` 진행 / Inference 만을 위해서는 모델 학습 부분 건너뛰어도 무방함
 4. ```<Model Load>``` 내에 저장된 ```my_model_A2C```와 ```my_model_A4C```을 불러옴
   
 ```python
