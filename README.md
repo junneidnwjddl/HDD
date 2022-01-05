@@ -24,6 +24,7 @@ model_a4c = tf.keras.models.load_model('''my_model_A4C 폴더가 존재하는 di
 - Colab 환경(2021.12.07기준) + tensorflow-addons
 
 ### 모델 weight
+- Not provided
 
 ### 학습코드
 [Train-A2C 학습 코드 클릭](https://github.com/junneidnwjddl/HDD/blob/main/Train_u_net_A2C.ipynb)  
